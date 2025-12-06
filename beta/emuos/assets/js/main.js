@@ -133,7 +133,7 @@
 			new EmuOS({
 				filesystem: FileSystem,
 				network: Network,
-				theme: 'theme-windows-me',
+				theme: 'theme-basic',
 				icons: desktop.icons
 			});
 		});
